@@ -1,3 +1,6 @@
+import enums.Color;
+import enums.FlowerType;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class FlowerTest {

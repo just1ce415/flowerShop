@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 public class FlowerBucket {
@@ -14,5 +15,9 @@ public class FlowerBucket {
 
     public void addFlowerPack(FlowerPack flowerPack){
         this.flowerBucket.add(flowerPack);
+    }
+
+    public Iterator<FlowerPack> getPackIterator(){
+        return this.flowerBucket.iterator();
     }
 }

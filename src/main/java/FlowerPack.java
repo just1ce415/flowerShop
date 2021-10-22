@@ -1,3 +1,5 @@
+import enums.Color;
+import enums.FlowerType;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -14,5 +16,17 @@ public class FlowerPack {
 
     public double price(){
         return this.containedFlower.getPrice() * this.quantity;
+    }
+
+    public double getFlowerSepalLength(){
+        return this.containedFlower.getSepalLength();
+    }
+
+    public FlowerType getFlowerType(){
+        return this.containedFlower.getFlowerType();
+    }
+
+    public Color getFlowerColor(){
+        return this.containedFlower.getColor();
     }
 }

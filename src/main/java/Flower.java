@@ -1,3 +1,5 @@
+import enums.Color;
+import enums.FlowerType;
 import lombok.Getter;
 import lombok.Setter;
 
