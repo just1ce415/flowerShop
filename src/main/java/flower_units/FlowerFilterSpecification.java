@@ -1,5 +1,7 @@
-import enums.Color;
-import enums.FlowerType;
+package flower_units;
+
+import flower_units.enums.Color;
+import flower_units.enums.FlowerType;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -65,11 +67,11 @@ public class FlowerFilterSpecification {
             Iterator<FlowerPack> packIterator = bucketIterator.next().getPackIterator();
             while(packIterator.hasNext()){
                 FlowerPack flowerPack = packIterator.next();
-                if (this.getSepalLength() == 0.0){
+                if (this.getSepalLength() == -1){
                     this.setSepalLength(flowerPack.getFlowerSepalLength());
                     this.setSepalLengthChanged(true);
                 }
-                if (this.getPrice() == 0.0){
+                if (this.getPrice() == -1){
                     this.setPrice(flowerPack.price());
                     this.setPriceChanged(true);
                 }

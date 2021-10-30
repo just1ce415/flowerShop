@@ -1,4 +1,7 @@
 FlowerPackTest.class
-FlowerTest.class
+decorators/RibbonDecoratorTest.class
 FlowerBucketTest.class
+FlowerTest.class
 StoreTest.class
+delivery/PostDeliveryStrategyTest.class
+payment/CreditCardPaymentStrategyTest.class

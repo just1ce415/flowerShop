@@ -1,11 +1,15 @@
-import enums.Color;
-import enums.FlowerType;
+package flower_units;
+
+import flower_units.enums.Color;
+import flower_units.enums.FlowerType;
+import flower_units.FlowerBucket;
+import flower_units.FlowerPack;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
 public class Store {
-    private ArrayList<FlowerBucket> flowerBuckets = new ArrayList<>();
+    private final ArrayList<FlowerBucket> flowerBuckets = new ArrayList<>();
 
     public void addFlowerBucket(FlowerBucket flowerBucket){
         this.flowerBuckets.add(flowerBucket);

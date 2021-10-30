@@ -1,5 +1,6 @@
-import enums.Color;
-import enums.FlowerType;
+import flower_units.enums.Color;
+import flower_units.enums.FlowerType;
+import flower_units.Flower;
 
 import static org.junit.jupiter.api.Assertions.*;
 
