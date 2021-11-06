@@ -1,5 +1,6 @@
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/payment/CreditCardPaymentStrategy.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/flower_units/Item.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/order/Order.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/delivery/DHLDeliveryStrategy.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/delivery/PostDeliveryStrategy.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/delivery/Delivery.java
@@ -7,13 +8,17 @@
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/decorators/BasketDecorator.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/decorators/RibbonDecorator.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/payment/PayPalPaymentStrategy.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/order/users/Receiver.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/flower_units/FlowerBucket.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/flower_units/Store.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/Main.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/flower_units/FlowerPack.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/flower_units/enums/Color.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/order/users/User.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/order/OrderNotifier.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/flower_units/Flower.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/flower_units/FlowerFilterSpecification.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/decorators/Decorator.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/payment/Payment.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/order/users/Sender.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/main/java/decorators/PaperDecorator.java

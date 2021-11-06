@@ -1,4 +1,10 @@
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/FlowerTest.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/FlowerBucketTest.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/decorators/PaperDecoratorTest.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/order/OrderNotifierTest.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/FlowerPackTest.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/decorators/RibbonDecoratorTest.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/payment/CreditCardPaymentStrategyTest.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/order/OrderTest.java
+/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/delivery/PostDeliveryStrategyTest.java
 /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/src/test/java/StoreTest.java

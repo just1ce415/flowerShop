@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="FlowerTest" time="0.001" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="FlowerTest" time="0" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk/lib"/>
-    <property name="sun.java.command" value="/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/target/surefire/surefirebooter16448946947025544708.jar /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/target/surefire 2021-10-30T17-01-04_814-jvmRun1 surefire9687125285932049909tmp surefire_01932082385596411177tmp"/>
+    <property name="sun.java.command" value="/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/target/surefire/surefirebooter10094989708309066586.jar /home/angelo/Documents/studia/21-22/fall/labs/op/lab5/target/surefire 2021-11-06T11-42-50_298-jvmRun1 surefire3242295157545851822tmp surefire_07448012939809316329tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/target/test-classes:/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/target/classes:/home/angelo/.m2/repository/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar:/home/angelo/.m2/repository/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar:/home/angelo/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar:/home/angelo/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/angelo/.m2/repository/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar:/home/angelo/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/angelo/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar:/home/angelo/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar:/home/angelo/.m2/repository/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,12 +32,12 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/target/surefire/surefirebooter16448946947025544708.jar"/>
+    <property name="surefire.real.class.path" value="/home/angelo/Documents/studia/21-22/fall/labs/op/lab5/target/surefire/surefirebooter10094989708309066586.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.12+7"/>
     <property name="user.name" value="angelo"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="5.10.75-1-lts"/>
+    <property name="os.version" value="5.10.76-1-lts"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
